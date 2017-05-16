@@ -15,12 +15,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-<<<<<<< HEAD
-       
-=======
         <h1>HOLA MUNDO</h1>
         <h1>MUNICIPAL</h1>
->>>>>>> origin/master
     
     </div>
     </form>
