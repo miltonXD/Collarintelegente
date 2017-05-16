@@ -3,8 +3,17 @@ C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\bin\arqui.pdb
 C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\obj\Debug\arqui.csprojResolveAssemblyReference.cache
 C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\obj\Debug\arqui.dll
 C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\obj\Debug\arqui.pdb
+<<<<<<< HEAD
 C:\Users\omar\Desktop\proyecto\Collarintelegente\arqui\arqui\bin\arqui.dll
 C:\Users\omar\Desktop\proyecto\Collarintelegente\arqui\arqui\bin\arqui.pdb
 C:\Users\omar\Desktop\proyecto\Collarintelegente\arqui\arqui\obj\Debug\arqui.csprojResolveAssemblyReference.cache
 C:\Users\omar\Desktop\proyecto\Collarintelegente\arqui\arqui\obj\Debug\arqui.dll
 C:\Users\omar\Desktop\proyecto\Collarintelegente\arqui\arqui\obj\Debug\arqui.pdb
+=======
+C:\Users\Milton Navarro\Documents\GitHub\Collarintelegente\arqui\arqui\bin\arqui.dll
+C:\Users\Milton Navarro\Documents\GitHub\Collarintelegente\arqui\arqui\bin\arqui.pdb
+C:\Users\Milton Navarro\Documents\GitHub\Collarintelegente\arqui\arqui\obj\Debug\arqui.csprojResolveAssemblyReference.cache
+C:\Users\Milton Navarro\Documents\GitHub\Collarintelegente\arqui\arqui\obj\Debug\arqui.dll
+C:\Users\Milton Navarro\Documents\GitHub\Collarintelegente\arqui\arqui\obj\Debug\arqui.pdb
+C:\Users\Milton Navarro\Documents\GitHub\Collarintelegente\arqui\arqui\bin\MySql.Data.DLL
+>>>>>>> origin/master
