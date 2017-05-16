@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Services;
+using MySql.Data.MySqlClient;
+using System.Data;
 
 namespace arqui
 {
@@ -16,11 +18,29 @@ namespace arqui
     // [System.Web.Script.Services.ScriptService]
     public class WebService1 : System.Web.Services.WebService
     {
+        string connString = "SERVER=localhost" + ";" +
+         "DATABASE=mydb;" +
+         "user=root;" +
+         "password=arqui;";
 
         [WebMethod]
-        public string HelloWorld()
+        public DataSet HelloWorld()
         {
-            return "Hola a todos";
+
+            MySqlConnection cnMySQL = new MySqlConnection(connString);
+            cnMySQL.Open();
+            MySqlDataAdapter da = new MySqlDataAdapter("select * from persona", cnMySQL);
+            DataSet ds = new DataSet("persona");
+            //da.FillSchema(ds,SchemaType.Source,"persona");
+            da.Fill(ds, "persona");
+            return ds;
         }
+
+        [WebMethod]
+        public String Fecha()
+        {
+            return DateTime.Today.ToString();
+        }
+
     }
 }
