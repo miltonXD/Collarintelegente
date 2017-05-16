@@ -1,0 +1,5 @@
+C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\bin\arqui.dll
+C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\bin\arqui.pdb
+C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\obj\Debug\arqui.csprojResolveAssemblyReference.cache
+C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\obj\Debug\arqui.dll
+C:\Users\Milton Navarro\Documents\GitHub\arqui\arqui\obj\Debug\arqui.pdb
